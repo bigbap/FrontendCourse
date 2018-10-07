@@ -1,0 +1,19 @@
+{
+  "name": "frontend_course",
+  "version": "1.0.0",
+  "description": "frontend experiments for course",
+  "main": "server/index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Simon",
+  "license": "ISC"
+}

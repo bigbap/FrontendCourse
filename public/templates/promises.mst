@@ -1,0 +1,7 @@
+<button id="do_some_shit">Do Some Shit</button>
+
+<ul id="result_area"></ul>
+
+<script id="row_template" type="text/html">
+    <li>{{ID}} | {{Description}}</li>
+</script>
